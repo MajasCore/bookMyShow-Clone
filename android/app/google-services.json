@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "878568422491",
+    "project_id": "bookmyshow-3afba",
+    "storage_bucket": "bookmyshow-3afba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878568422491:android:6fe2a4c4771bd752b3137e",
+        "android_client_info": {
+          "package_name": "net.ameenmajas.book_my_show"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878568422491-nheuiqdvrdgro8ap2rbje4u2l2nuurhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQVt3zeKMoFqBaSEhkv5Z3MzNhiSeYdyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878568422491-nheuiqdvrdgro8ap2rbje4u2l2nuurhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
